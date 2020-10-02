@@ -17,7 +17,8 @@ On the weekends, I like to play video games with my friends. Every Sunday mornin
 
 Once a month, I visit my family on Long Island where we go for bike rides and play board games. During the winter months, I love to unplug from technology and take a short trip to a cabin with my boyfriend to relax for the weekend. Every other year, I like to take a trip another country. I am passionate about personal finance and continuous learning. 
 
-Favorite things: Mac and cheese, tigers, finding nemo, collecting foreign coins/bills, minecraft, rnb music, fuzzy blankets, the color purple, ben and jerry's icecream, bob ross, and salt & vinegar chips.
+## Favorite Things
+Mac and cheese, tigers, finding nemo, collecting foreign coins/bills, minecraft, rnb music, fuzzy blankets, the color purple, ben and jerry's icecream, bob ross, and salt & vinegar chips.
 
 ## Proud to Be a...
 
