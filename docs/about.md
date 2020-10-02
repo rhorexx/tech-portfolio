@@ -4,9 +4,7 @@ title: About
 ---
 Thank you for visiting my site!
 
-I love finding patterns! Currently, I work in derivatives technology. I help to support Citi's fixed income trading processing system. Prior to this, I was in working in credit technology.
- 
-Before starting at Citi, I was at Binghamton University. Most notably, I was the CFO of the Student Association during my senior year. I strive to provide creative solutions to tackle today's complex problems. If you want to get in touch, go ahead and email me!
+I love finding patterns! Currently, I work in derivatives technology. I help to support Citi's fixed income trading processing system. Prior to this, I was in working in credit technology. At Binghamton University, I was the CFO of the Student Association during my senior year. I strive to provide creative solutions to tackle today's complex problems. If you want to get in touch, go ahead and add me on LinkedIn!
  
 My goal is to never stop learning.
 
